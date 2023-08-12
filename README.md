@@ -1,83 +1,31 @@
-# Matemáticas Discretas con Apoyo de Software en Python
+# MATEMÁTICA DISCRETA CON APOYO DE SOFTWARE
 
-Este repositorio proporciona implementaciones en Python de varios algoritmos y funciones matemáticas originalmente presentados en Wolfram Mathematica, basándose en el libro de matemáticas discretas.
+Este repositorio proporciona herramientas complementarias al libro "Matemática discreta con apoyo de software". Los recursos aquí compartidos buscan complementar y enriquecer el estudio de la matemática discreta, proporcionando soluciones programadas, glosarios y herramientas útiles.
 
-## Contenido del Libro
+## Contenidos Principales
 
-1. **Recursividad**
-   - Introducción
-   - Propiedades de una recursividad
-   - Ejemplos de programas recursivos
-   - Ejemplos de recursividades de cola
-   - Ejercicios
-2. **Relaciones de Recurrencia**
-   - Introducción
-   - Resolución de relaciones de recurrencia (Método iterativo, Relaciones de recurrencia homogéneas lineales)
-   - Ejercicios
+- **Ejemplos Programados**: Se ofrecen archivos con las soluciones programadas en Python de todos los ejemplos presentados en el libro.
+- **Glosarios de Comandos**: Dos glosarios están disponibles para aquellos que deseen familiarizarse con el software Wolfram Mathematica.
+- **MathReader**: Un software gratuito que permite leer archivos de Mathematica.
+- **Paquete VilCretas**: Este paquete, diseñado específicamente para el estudio de matemática discreta, se emplea a lo largo del libro. Se puede descargar directamente desde [este enlace](https://www.escinf.una.ac.cr/discretas/index.php/package).
+- **Libro Adicional**: Existe un libro complementario de distribución gratuita, "Matemática discreta a través del uso del paquete VilCretas", que sirve como guía completa para el paquete VilCretas.
+  
+[Vea aquí](https://youtu.be/jnpG7DD9ohc) un tutorial sobre cómo instalar y usar el paquete VilCretas.
 
-3. **Análisis de Algoritmos**
-   - Introducción
-   - Enfoque experimental
-   - Enfoque teórico: notación asintótica O grande
-   - Enfoque teórico: otras notaciones asintóticas
-   - Ejercicios
+## Cómo usar este repositorio
 
-4. **Relaciones Binarias**
-   - Introducción
-   - Representaciones de una relación binaria
-   - Operaciones con relaciones binarias
-   - Tipos de relaciones
-   - Ejercicios
+1. **Clonar o descargar** este repositorio a su equipo local.
+2. Navegue hasta el capítulo o sección deseada.
+3. Ejecute los scripts Python para visualizar las soluciones a los ejemplos.
+  
+## Contribuciones
 
-5. **Teoría de Grafos**
-   - Introducción
-   - Representaciones para un grafo
-   - Circuitos en un grafo
-   - Algoritmo del camino más corto
-   - Ejercicios
-
-6. **Teoría de Árboles**
-   - Introducción
-   - Árboles binarios de búsqueda
-   - Recorridos en un árbol binario
-   - Árboles generadores
-   - Árboles de expansión mínima
-   - Ejercicios
-
-7. **Máquinas de Estado Finito y Autómatas**
-   - Introducción
-   - Máquinas de estado finito
-   - Autómatas de estado finito determinísticos
-   - Autómatas no determinísticos
-   - Ejercicios
-
-8. **Lenguajes y Gramáticas**
-   - Introducción
-   - Lenguajes formales y gramáticas
-   - Gramáticas regulares y autómatas
-   - Ejercicios
-
-## Uso
-
-1. Clona el repositorio.
-2. Ejecuta los scripts Python deseados.
-
-### Ejemplo: Sumatoria Recursiva
-
-```bash
-python sumatoria_recursiva.py
-```
-
-[Otros ejemplos para otros scripts...]
+Las contribuciones al proyecto son bienvenidas. Si desea contribuir, abra un issue o realice un pull request.
 
 ## Licencia
 
-Este proyecto está bajo la licencia MIT. Consulta el archivo `LICENSE` para obtener más detalles.
-
-## Contribuciones
-
-Las contribuciones son bienvenidas. Por favor, abre un issue o realiza un pull request si deseas contribuir.
+Este proyecto está bajo la licencia MIT. Consulte el archivo `LICENSE` para más detalles.
 
 ## Agradecimientos
 
-Agradecimientos a los autores del libro original de matemáticas discretas y a todos los colaboradores del proyecto.
+Agradecimientos a los autores del libro original, al creador del paquete VilCretas y a todos aquellos que han colaborado en la creación y mantenimiento de estos recursos.
