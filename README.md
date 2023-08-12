@@ -1,45 +1,36 @@
+# MATEMÁTICA DISCRETA CON APOYO DE SOFTWARE: PYTHON EDITION
 
----
+Este repositorio es una iniciativa en desarrollo que busca proporcionar una versión en Python de los ejemplos y ejercicios presentados en el libro "Matemática discreta con apoyo de software" de Enrique Vílchez Quesada. Aunque el libro original se basa en Wolfram Mathematica, nuestra meta es traducir y adaptar el contenido para aquellos que prefieren trabajar con Python.
 
-# MATEMÁTICA DISCRETA CON APOYO DE SOFTWARE
+## 🚧 Estado del Proyecto
 
-Este repositorio proporciona herramientas complementarias al libro "Matemática discreta con apoyo de software". Los recursos aquí compartidos buscan complementar y enriquecer el estudio de la matemática discreta, proporcionando soluciones programadas, glosarios y herramientas útiles.
-
-## Contenidos Principales
-
-- **Ejemplos Programados**: Se ofrecen archivos con las soluciones programadas en Python de todos los ejemplos presentados en el libro.
-- **Glosarios de Comandos**: Dos glosarios están disponibles para aquellos que deseen familiarizarse con el software Wolfram Mathematica.
-- **MathReader**: Un software gratuito que permite leer archivos de Mathematica.
-- **Paquete VilCretas**: Este paquete, diseñado específicamente para el estudio de matemática discreta, se emplea a lo largo del libro. Se puede descargar directamente desde [este enlace](https://www.escinf.una.ac.cr/discretas/index.php/package).
-- **Libro Adicional**: Existe un libro complementario de distribución gratuita, "Matemática discreta a través del uso del paquete VilCretas", que sirve como guía completa para el paquete VilCretas.
-
-[Vea aquí](https://youtu.be/jnpG7DD9ohc) un tutorial sobre cómo instalar y usar el paquete VilCretas.
+Este proyecto se encuentra en fase activa de desarrollo. Actualmente, no todos los ejemplos y ejercicios del libro han sido traducidos a Python, pero estamos trabajando activamente para completar esta tarea. ¡Tu paciencia y contribuciones son muy apreciadas!
 
 ## Cómo usar este repositorio
 
-1. **Clonar o descargar**: Haga clic en el botón 'Clone' o 'Download' en la parte superior de esta página. Si es nuevo en Github, se recomienda descargar el repositorio como un archivo ZIP.
-2. **Descomprimir**: Si ha descargado el repositorio como ZIP, descomprímalo.
-3. **Navegación**: Abra la carpeta correspondiente al capítulo o sección deseada.
-4. **Ejecutar scripts**: Los scripts están escritos en Python. Asegúrese de tener Python instalado en su equipo y ejecute los scripts utilizando su IDE o terminal de preferencia.
+1. **Clonar el repositorio**: Puedes comenzar clonando este repositorio en tu máquina local.
+2. **Navega por los capítulos**: Cada capítulo del libro tendrá su propia carpeta en este repositorio, donde encontrarás los ejemplos y ejercicios traducidos a Python.
+3. **Ejecuta los scripts**: Una vez clonado, puedes ejecutar cualquier script Python (.py) en tu entorno local de Python.
 
 ## Contribuciones
 
-Contribuir a este proyecto es sencillo y siempre es bienvenido:
+Si deseas contribuir con este proyecto, sigue estos pasos:
 
-1. **Fork del repositorio**: Haga clic en el botón 'Fork' en la parte superior de esta página.
-2. **Clone**: Clone su fork a su máquina local.
-3. **Haga sus cambios**: Realice las adiciones o cambios que considere pertinentes.
-4. **Commit y Push**: Haga commit de sus cambios y haga push a su fork en GitHub.
-5. **Pull Request**: Desde su fork, haga clic en el botón 'New Pull Request' y siga las instrucciones.
+1. **Fork este repositorio**: Haz un fork de este repositorio en tu cuenta de GitHub.
+2. **Clona tu fork**: Clona el repositorio forkeado en tu máquina local.
+3. **Haz tus cambios**: Realiza los cambios o adiciones que consideres necesarios.
+4. **Envía un Pull Request**: Una vez que hayas hecho tus cambios, envía un Pull Request para que podamos revisar y fusionar tus cambios.
 
-Agradecemos cualquier tipo de contribución, desde correcciones menores hasta añadir nuevos ejemplos o mejorar los existentes.
+Estamos especialmente interesados en:
+
+- Traducciones de ejemplos y ejercicios a Python.
+- Mejoras en el código ya traducido.
+- Documentación adicional y explicaciones de los ejemplos.
 
 ## Agradecimientos
 
-Un agradecimiento especial a Enrique Vílchez Quesada, autor del libro "Matemática discreta con apoyo de software", por su dedicación y contribución al mundo de la matemática discreta. Su obra ha sido un recurso invaluable para la comunidad y esta iniciativa está inspirada en su trabajo. Gracias al creador del paquete VilCretas por facilitar herramientas útiles que enriquecen el aprendizaje. Apreciamos a todos aquellos que han tomado tiempo para contribuir, usar o promover este repositorio y sus contenidos.
+Queremos expresar nuestro profundo agradecimiento a Enrique Vílchez Quesada por su magnífico libro "Matemática discreta con apoyo de software". Este proyecto no sería posible sin su valiosa contribución al mundo de las matemáticas discretas.
 
 ## Licencia
 
-Este proyecto está bajo la licencia MIT. Consulte el archivo `LICENSE` para más detalles.
-
----
+Este proyecto está bajo la licencia MIT. Consulte el archivo [LICENSE](./LICENSE) para más detalles.
